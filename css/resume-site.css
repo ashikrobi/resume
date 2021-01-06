@@ -1,3 +1,6 @@
+html {
+    background-color: #FFF9FB;
+}
 body {
     font-family: 'Quicksand', sans-serif;
 }
@@ -14,7 +17,7 @@ h2 {
     text-transform: uppercase;
 }
 .highlight {
-    color: tomato;
+    color: #7BE0AD;
 }
 nav a {
     text-decoration: none;
@@ -25,7 +28,7 @@ nav a {
     margin-right: 5%;
 }
 .plainbutton {
-    background-color: coral;
+    background-color: #7be0ad;
     color: white;
     padding: 10px 30px;
     border-radius: 5px;
